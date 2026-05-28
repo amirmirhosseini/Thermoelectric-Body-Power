@@ -67,6 +67,6 @@ The repository is organized based on the project deliverables and milestones:
 
 ## Authors
 * **Ali Fotouhi**
-* **Amirmohammad Mirhosseini** - [GitHub Profile](https://github.com/your-amir-profile) / [University Email](mailto:amir.mirhosseini@ut.ac.ir)
+* **Amirmohammad Mirhosseini** - [GitHub Profile](https://github.com/amirmirhosseini) / [University Email](mailto:amir.mirhosseini@ut.ac.ir)
 
 *School of Mechanical Engineering, College of Engineering, University of Tehran*
